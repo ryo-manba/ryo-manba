@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Ryo Matsukawa
 
 - Frontend Developer.
-- Team member at [NextUI](https://github.com/nextui-org/nextui).
+- Team member of [NextUI](https://nextui.org/) and [Stylelint](https://stylelint.io/).
 - X(Twitter): [@ryo_manba](https://twitter.com/ryo_manba)
 - LinkedIn: [ryo-manba](https://www.linkedin.com/in/ryo-manba/)
 
