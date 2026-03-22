@@ -11,7 +11,7 @@ I contribute to projects around CSS tooling, package management, and UI componen
 | Project                                                   | Role           | Highlights                                                         |
 | --------------------------------------------------------- | -------------- | ------------------------------------------------------------------ |
 | [stylelint](https://github.com/stylelint/stylelint)       | Member         | Bulk suppressions, new rules, `languageOptions` support, bug fixes |
-| [pnpm](https://github.com/pnpm/pnpm)                      | Member         | `trustPolicy`, `minimumReleaseAge`, config improvements            |
+| [pnpm](https://github.com/pnpm/pnpm)                      | Member         | `trustPolicy`, supply-chain security features, CLI bug fixes            |
 | [HeroUI](https://github.com/heroui-inc/heroui)            | Ex-team member | Component development and maintenance                              |
 | [React Spectrum](https://github.com/adobe/react-spectrum) | Contributor    | React Aria component improvements and bug fixes                    |
 | [ESLint CSS](https://github.com/eslint/css)               | Contributor    | CSS language plugin improvements                                   |
